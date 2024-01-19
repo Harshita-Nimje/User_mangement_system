@@ -51,6 +51,7 @@ The application is accessible at `http://localhost:5000`.
 ### Create a Customer
 
 To create a new customer, click on the "Create Customer" button on the homepage. Enter the customer's name, email, and phone number in the form fields and click on the "Create" button.
+![Screenshot 2024-01-19 225703](https://github.com/Harshita-Nimje/User_mangement_system.github.io/assets/140044690/e8bab1c7-2026-4a60-adbc-9f93f09f45e0)
 
 ### Read Customers
 
@@ -59,6 +60,7 @@ To view all customers, click on the "Customers" link on the homepage. This will 
 ### Update a Customer
 
 To update a customer, click on the "Edit" button next to the customer's name. This will open the customer's profile page. Make the necessary changes to the customer's information and click on the "Update" button.
+![Screenshot 2024-01-19 225822](https://github.com/Harshita-Nimje/User_mangement_system.github.io/assets/140044690/c5741698-8bb7-466e-b49d-4b6eb0730a5e)
 
 ### Delete a Customer
 
